@@ -45,5 +45,5 @@ public class switchHesap {
 ```
 # Patika Linkim :
 ***
-<a href='https://app.patika.dev/krblttrkn'>Patika Profil Sayfam</a>
+<a href="https://academy.patika.dev/profile">Patika Profil Sayfam</a>
 ***
